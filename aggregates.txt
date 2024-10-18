@@ -1,0 +1,12 @@
+n: 4, avg time: 0.023600000000000003
+n: 5, avg time: 0.7028000000000001
+n: 6, avg time: 20.2128
+n: 7, avg time: 45.548
+n: 8, avg time: 98.721
+
+n: 4, avg time: 0.5238957
+n: 5, avg time: 10.14024816
+n: 6, avg time: 243.9384726
+n: 7, avg time: 835.3582
+n: 8, avg time: 1000+
+
